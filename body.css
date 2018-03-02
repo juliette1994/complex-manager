@@ -1,0 +1,209 @@
+body {
+  background: #ffffff url("f1.jpg") no-repeat center;
+  margin: 0px;
+}
+
+#premierp {
+  font-family: "Times New Roman";
+  font-size: 200%;
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin: 0px;
+  margin-top: 12%;
+}
+
+p {
+  font-family: "Times New Roman";
+  font-size: 200%;
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin: 0px;
+}
+
+ul {
+  padding: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+#title {
+  font-family: "Times New Roman";
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: 0px;
+}
+
+#reel {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 200%;
+  text-align: center;
+  background-color: black;
+  border-style: solid;
+  border-color: white;
+  border-width: 3px;
+  color: white;
+}
+
+#imaginaire {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 200%;
+  text-align: center;
+  background-color: black;
+  border-style: solid;
+  border-color: white;
+  border-width: 3px;
+  color: white;
+}
+
+#button {
+  display: inline-block;
+  font-size: 220%;
+  background-color: black;
+  color: white;
+}
+
+#rebutton {
+  display: inline-block;
+  font-size: 220%;
+  background-color: black;
+  color: white;
+  margin-left: 43.5%;
+  margin-top: 4%;
+  margin-bottom: 5%;
+}
+
+#graphique {
+  display: inline-block;
+  font-size: 220%;
+  background-color: black;
+  color: white;
+  margin-left: 39%;
+  margin-top: 4%;
+  margin-bottom: 5%;
+}
+
+#rreel {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  font-size: 200%;
+  text-align: center;
+  background-color: #333366;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  color: white;
+}
+
+#iimaginaire {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  font-size: 200%;
+  text-align: center;
+  background-color: #333366;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  color: white;
+}
+
+input {
+  display: inline-block;
+  font-size: 200%;
+  text-align: center;
+  margin-left: 2px;
+  margin-top: 20px;
+  background-color: #333366;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  color: white;
+}
+
+#nav_head {
+  margin-top: 0px;
+}
+
+#graph {
+  display: block;
+  margin-top: 25%;
+  background-color: white;
+}
+
+#block_calcul {
+  display: block;
+  text-align: center;
+}
+
+.text_inline {
+   display: inline-block;
+}
+
+#block_haut {
+  display: block;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#block_haut2 {
+  display: block;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: -27%;
+}
+
+#block_middle {
+  display: block;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  width: 1000px;
+}
+
+#canvas_center {
+  display: block;
+  width: 300px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+#link_color {
+  text-decoration: none;
+  color: white;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;
+  font-weight: bolder;
+  font-size: 150%;
+}
+
+#link_color2 {
+  display: block;
+  margin-top: 25%;
+  margin-left: 1%;
+  margin-right: 1%;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+#link_color2:hover {
+  text-decoration: underline;
+  font-size: 25px;
+}
